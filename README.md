@@ -1,4 +1,4 @@
-# 薄明路｜工业设计作品集
+# 作品集
 
 Static HTML/CSS/JavaScript portfolio, prepared for public Cloudflare Pages hosting from GitHub.
 
